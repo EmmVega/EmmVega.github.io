@@ -1,0 +1,18 @@
+.userselector {
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    content: "";
+    display: table;
+    clear: both;
+}
+ .columns{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.buttons{
+    margin-top: auto;
+    margin-top: 200px;
+}   
