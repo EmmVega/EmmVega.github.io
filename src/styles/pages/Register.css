@@ -21,3 +21,6 @@
 .confirm__button{
     margin-top: 10px;
 }
+.button{
+    text-decoration: none;
+}

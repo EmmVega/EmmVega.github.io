@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import '../styles/components/Register.css';
+import { Link } from 'react-router-dom';
+import '../styles/pages/Register.css';
 
 const Register = props => {
     const [form, setValues] = useState({
@@ -66,7 +67,11 @@ const Register = props => {
                   placeholder="Confirm Password..."
                   onChange={handleInput}
                />
-            <button className="confirm__button">Confirm</button>
+            <button className="confirm__button">
+                <Link to='account' className='button'>
+                Confirm
+                </Link>
+            </button>
          </form>
       </div>
    );

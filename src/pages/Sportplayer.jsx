@@ -1,9 +1,8 @@
 import React from 'react';
-import Register from '../components/Register';
+import Register from '../pages/Register';
 
 const Sportplayer = () => (
     <div>
-        SPORTPLAYER
         <Register/>
     </div>
 );

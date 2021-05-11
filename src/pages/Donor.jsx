@@ -1,8 +1,8 @@
 import React from 'react';
-import Register from '../components/Register';
+import Register from '../pages/Register';
 
 const Donor = () => (
-    <div>DONOR
+    <div>
         <Register/>
     </div>
     

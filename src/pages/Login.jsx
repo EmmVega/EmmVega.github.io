@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
-import '../styles/components/Login.css';
+import { Link } from 'react-router-dom';
+import '../styles/pages/Login.css';
 
 const Login = () => {
     const [form, setValues] = useState({
@@ -43,7 +44,11 @@ const Login = () => {
                />
                <input type="checkbox" className="box" onClick={seePass} />
             </div>
-            <button className="confirm__button">Confirm</button>
+            <button className="confirm__button">
+                <Link to='account' className='button'>
+                Confirm
+                </Link>
+            </button>
          </form>
     </div>
 );
