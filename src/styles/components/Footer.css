@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(136, 33, 33);
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sentences:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

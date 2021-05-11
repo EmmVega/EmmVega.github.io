@@ -5,5 +5,12 @@
 body {
     margin: 0;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color:gray;
+    background-color:rgb(235, 235, 235);
+}
+
+.app{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction:column-reverse;
 }

@@ -1,0 +1,23 @@
+.login__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly;
+    width: 250px;
+    margin: auto;
+}
+.input{
+    margin-top: 10px;
+}
+.lastinput{
+    margin-top: 10px;
+
+    display: flex;
+    align-items: baseline;
+}
+.hidden{
+    width: 145px;
+}
+.confirm__button{
+    margin-top: 10px;
+}
