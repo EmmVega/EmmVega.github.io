@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/emmvega.github.io/static/css/main.805a1f31.chunk.css",
-    "main.js": "/emmvega.github.io/static/js/main.50be624c.chunk.js",
-    "main.js.map": "/emmvega.github.io/static/js/main.50be624c.chunk.js.map",
-    "runtime-main.js": "/emmvega.github.io/static/js/runtime-main.72ba235f.js",
-    "runtime-main.js.map": "/emmvega.github.io/static/js/runtime-main.72ba235f.js.map",
-    "static/js/2.edfb3a47.chunk.js": "/emmvega.github.io/static/js/2.edfb3a47.chunk.js",
-    "static/js/2.edfb3a47.chunk.js.map": "/emmvega.github.io/static/js/2.edfb3a47.chunk.js.map",
-    "index.html": "/emmvega.github.io/index.html",
-    "static/css/main.805a1f31.chunk.css.map": "/emmvega.github.io/static/css/main.805a1f31.chunk.css.map",
-    "static/js/2.edfb3a47.chunk.js.LICENSE.txt": "/emmvega.github.io/static/js/2.edfb3a47.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.805a1f31.chunk.css",
+    "main.js": "/static/js/main.50be624c.chunk.js",
+    "main.js.map": "/static/js/main.50be624c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f069cc25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f069cc25.js.map",
+    "static/js/2.edfb3a47.chunk.js": "/static/js/2.edfb3a47.chunk.js",
+    "static/js/2.edfb3a47.chunk.js.map": "/static/js/2.edfb3a47.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.805a1f31.chunk.css.map": "/static/css/main.805a1f31.chunk.css.map",
+    "static/js/2.edfb3a47.chunk.js.LICENSE.txt": "/static/js/2.edfb3a47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72ba235f.js",
+    "static/js/runtime-main.f069cc25.js",
     "static/js/2.edfb3a47.chunk.js",
     "static/css/main.805a1f31.chunk.css",
     "static/js/main.50be624c.chunk.js"
